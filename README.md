@@ -1,62 +1,72 @@
 # Hello! 👋
 
-Welcome to my GitHub profile — Vladimir here, a frontend-leaning full‑stack developer focused on building fast, accessible web apps with clean architecture and measurable product impact.
+Welcome to my GitHub profile — Vladimir here, a frontend‑leaning full‑stack developer focused on building fast, accessible web apps with solid architecture and real product value.
 
 ## About me
 
-- ITMO University, Software Engineering (B.Sc.), 3rd year  
-- Building COOKie — a recipe discovery and nutrition platform (MVP)  
-- Passionate about performance, DX, and data‑driven UX decisions
+- ITMO University — B.Sc. in Information Systems and Technologies (3rd year)  
+- T‑Academy Frontend — semester 1 of 2 (T‑Bank training program)  
+- Currently building COOKie — a modern recipe and nutrition platform (MVP)  
+- Interested in performance, DX, and data‑driven UX decisions
 
 ## Tech stack
 
 ### Core frontend
-- TypeScript, React, Next.js 14 (App Router)  
+
+- TypeScript, JavaScript, React, Next.js 14 (App Router)  
 - TailwindCSS, Zustand, TanStack Query  
 - Accessibility, SSR/SSG/ISR, bundle optimization
 
 ### Backend and data
+
 - C#/.NET 8 (ASP.NET Core, EF Core, LINQ)  
-- Node.js/Express (REST), PostgreSQL, Redis  
-- Auth: JWT + OAuth (Yandex ID, VK)
+- REST API design (OpenAPI 3), PostgreSQL  
+- Auth: JWT, OAuth (Yandex ID, VK)
 
 ### DevOps and tooling
-- Docker, CI/CD (GitHub Actions), OpenAPI/Swagger, RFC 7807 errors  
-- Yandex Cloud (VM, Object Storage, CDN), Sentry, GA  
-- Git (branching, code review, semantic commits)
+
+- Docker, CI/CD (GitHub Actions)  
+- Yandex Cloud (VM, managed DB, Object Storage, CDN)  
+- Sentry, Google Analytics, Git (branching, code review, semantic commits)
 
 ## Spotlight project — COOKie
 
-COOKie is a web platform for recipe discovery with accurate macro calculations, content moderation, and admin workflows. The MVP uses a monolithic split (Next.js frontend + ASP.NET Core API), PostgreSQL, Redis, and a managed setup on Yandex Cloud. Features include full‑text search with Russian morphology, JWT + OAuth auth, batch recipe import, responsive UI, and an OpenAPI‑first REST API.
+COOKie is a full‑stack web platform for recipe discovery and meal planning with accurate nutrition data, content moderation, and admin workflows. The MVP uses a modular monolith split (Next.js 14 frontend + ASP.NET Core 8 API), PostgreSQL, Redis, and a managed setup on Yandex Cloud. The project follows an architecture‑first approach with detailed PlantUML API specs, 100+ functional requirements, full‑text search with Russian morphology, JWT + OAuth auth, batch recipe import, responsive UI, and an OpenAPI‑ready REST API.
 
 - Architecture and docs: https://github.com/COOKAITeam/architecture  
-- Frontend (Next.js 14, TailwindCSS, Zustand): https://github.com/COOKAITeam/cookie-frontend  
-- Backend (ASP.NET Core 8, PostgreSQL, Redis): https://github.com/COOKAITeam/cookie-backend
+- Frontend (Next.js 14, TailwindCSS, Zustand, TanStack Query): https://github.com/COOKAITeam/cookie-frontend  
+- Backend (ASP.NET Core 8, PostgreSQL, Redis): https://github.com/COOKAITeam/cookie-backend  
 
-Target: 15‑week MVP, 250+ curated recipes at launch, 1K users in the first month, scalable to 5K+.
+Goals: 15‑week MVP, 250+ curated recipes at launch, 1K users in the first month, scalable to 5K+.
 
 ## Selected projects
 
-- File System (C#) — CLI app applying SOLID and GoF patterns for file navigation and operations  
-  https://github.com/voldemar64/FileSystem
+- T‑News (TypeScript, React, Node.js) — Twitter‑like app with feed, profiles, likes, comments, follows and search, implemented from a Figma design with a single REST API specification  
+  https://github.com/voldemar64/T-News  
 
-- Avito‑like marketplace (TS/React/Express/MongoDB) — internship learning project with auth, listings, and tests  
-  https://github.com/voldemar64/avito-internship
+- Avito Clone (TypeScript, React, Express.js, MongoDB, Vite) — full‑stack marketplace with auth, listings CRUD, Jest tests and deployment to Yandex Cloud  
+  https://github.com/voldemar64/avito-internship  
+
+- Kinopoisk Clone (JavaScript, React, Express.js, MongoDB, Vite) — movie search and favorites service consuming an external movies API and running on Yandex Cloud  
+  https://github.com/voldemar64/movies-explorer-frontend  
+
+- File System (C#) — CLI app for file navigation and operations demonstrating SOLID and GoF patterns  
+  https://github.com/voldemar64/FileSystem  
 
 ## What I'm exploring
 
 - Performance budgets, RUM metrics, caching strategies  
-- API design quality (idempotency, pagination, error taxonomies)  
+- API design quality (idempotency, pagination, error contracts, consistency)  
 - Developer experience automation (linting, type‑safe APIs, CI checks)
 
 ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voldemar64&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voldemar64&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voldemar64&layout=compact&theme=dark)
 
 ## Contact
 
-- Email: voldemar22864@gmail.com  
+- Email: [voldemar22864@gmail.com](mailto:voldemar22864@gmail.com)  
 - Telegram: https://t.me/John_Silver64
 
 Thanks for stopping by!

@@ -4,7 +4,7 @@ Welcome to my GitHub profile — Vladimir here, a frontend‑leaning full‑stac
 
 ## About me
 
-- ITMO University — B.Sc. in Information Systems and Technologies (3rd year)  
+- ITMO University — B.Sc. in Software Engineering (3rd year)  
 - T‑Academy Frontend — semester 1 of 2 (T‑Bank training program)  
 - Currently building COOKie — a modern recipe and nutrition platform (MVP)  
 - Interested in performance, DX, and data‑driven UX decisions

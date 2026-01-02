@@ -53,12 +53,6 @@ Goals: 15‑week MVP, 250+ curated recipes at launch, 1K users in the first mont
 - File System (C#) — CLI app for file navigation and operations demonstrating SOLID and GoF patterns  
   https://github.com/voldemar64/FileSystem  
 
-## What I'm exploring
-
-- Performance budgets, RUM metrics, caching strategies  
-- API design quality (idempotency, pagination, error contracts, consistency)  
-- Developer experience automation (linting, type‑safe APIs, CI checks)
-
 ## GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voldemar64&show_icons=true&theme=dark)  
